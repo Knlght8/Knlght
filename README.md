@@ -1,4 +1,5 @@
-## Hi There, I'm Peter - aka [Knlght]
+<h1 align="center"> Hello I am Peter aka Knlght</h1>
+<h3 align="center">A passionate learner for Web and Software Development</h3>
 -- 🔭 I am currently going to school to enhance my Development skills
 -- 🌱 I am currently learning the HTML5 family along with Python
 -- 🤝 I am looking to network with other individuals and developers
