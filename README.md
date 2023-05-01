@@ -1,4 +1,4 @@
-### Hi There, I'm Peter - aka [Knlght]
+## Hi There, I'm Peter - aka [Knlght]
 -- 🔭 I am currently going to school to enhance my Development skills
 -- 🌱 I am currently learning the HTML5 family along with Python
 -- 🤝 I am looking to network with other individuals and developers
@@ -9,6 +9,6 @@
 <br />
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3.org/Style/CSS/Overview.en.html)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org)
