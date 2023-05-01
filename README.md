@@ -1,11 +1,13 @@
 <h1 align="center"> Hello I am Peter aka Knlght</h1>
 <h3 align="center">A passionate learner for Web and Software Development</h3>
--- 🔭 I am currently going to school to enhance my Development skills
--- 🌱 I am currently learning the HTML5 family along with Python
--- 🤝 I am looking to network with other individuals and developers
--- 🥅 2023 Goals, Start doing more open source projects
--- 🎮 Fun Fact: I love to work out and I am also a gamer
 
+<ul>
+<li>-- 🔭 I am currently going to school to enhance my Development skills</li>
+<li>-- 🌱 I am currently learning the HTML5 family along with Python</li>
+<li>-- 🤝 I am looking to network with other individuals and developers</li>
+<li>-- 🥅 2023 Goals, Start doing more open source projects</li>
+<li>-- 🎮 Fun Fact: I love to work out and I am also a gamer</li>
+</ul>
 
 <br />
 
